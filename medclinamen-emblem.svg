@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
+  <title id="title">Emblema MedClinamen</title>
+  <desc id="desc">Monograma clínico em C, com bastão e serpente.</desc>
+  <circle cx="71" cy="61" r="35" fill="#F7CE68"/>
+  <path d="M81 25A43 43 0 1 0 84 96" fill="none" stroke="#10100D" stroke-width="17" stroke-linecap="butt"/>
+  <path d="M62 12v96" stroke="#10100D" stroke-width="8" stroke-linecap="square"/>
+  <path d="M60 29c19 0 23 14 13 23-12 11-29 10-19 25 8 12 28 7 27 24-1 9-8 15-18 17" fill="none" stroke="#10100D" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="63" cy="29" r="3" fill="#F7CE68" stroke="#10100D" stroke-width="2"/>
+</svg>
